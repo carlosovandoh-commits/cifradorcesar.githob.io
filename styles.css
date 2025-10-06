@@ -1,0 +1,167 @@
+body{
+  padding: 25px;
+  font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f9fafc;
+      color: #333;
+      
+}
+
+header{
+     background-image: url("https://uploads.onecompiler.io/43ynxksk3/43ypc76en/124676.jpg");
+        color: blanco;
+      padding: 40px 20px;
+      background-size: cover;
+      text-align: center;
+    }
+    
+
+    
+ .titulo-header{
+color:white;
+}
+
+
+.bloquehistoria{
+  margin: auto;
+  width: 80%;
+padding: 5px;
+}
+
+.bloqueinicio{
+  margin: auto;
+  width: 80%;
+padding: 5px;
+}
+
+.bloqueaplicaciones{
+  margin: auto;
+  width: 80%;
+padding: 5px;
+}
+
+.bloqueconclusion{
+  margin: auto;
+  width: 80%;
+padding: 5px;
+}
+
+.bloquereferencias{
+  margin: auto;
+  width: 80%;
+padding: 5px;
+}
+
+h3{
+margin-left: 5%;
+}
+
+       .tituloinicio{
+color:#2D1E7Aff;
+text-align:center;
+}
+
+.titulohistoria{
+color:#2D1E7Aff;
+text-align:center;
+}
+
+.infohistoria{
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+.tiposia{
+color:#2D1E7Aff;
+text-align:center;
+}
+
+.tituloaplicaciones{
+color:#2D1E7Aff;
+text-align:center;
+}
+
+.tituloconclusion{
+color:#2D1E7Aff;
+text-align:center;
+}
+
+.tituloreferencias{
+color:#2D1E7Aff;
+text-align:center;
+}
+
+   nav {
+    background-color: #020332ff;
+      text-align: center;
+      padding: 10px 0;
+    }
+    
+    nav a {
+      color: #f1f1f1;
+      text-decoration: none;
+      margin: 0 15px;
+      padding: 10px 18px;
+      border-radius: 5px;
+      transition: background 0.3s;
+    }
+    nav a:hover {
+        background-color: #023DA3;
+    color:white;
+    }
+
+  .imageninicio{
+     display: block;
+  margin-left: auto;
+  margin-right: auto;
+    }
+    
+    .robot{
+     display: block;
+  margin-left: auto;
+  margin-right: auto;
+    }
+
+ table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+    }
+    th, td {
+      border: 1px solid #999;
+      padding: 12px;
+      text-align: center;
+    }
+thead {
+      background-color: #020332ff;
+      color: white;
+    }
+
+       .aplicacion1 { background-color: #2D1E7Aff; }
+    .aplicacion2 { background-color: #6F8ED1ff; }
+    .aplicacion3 { background-color: #022789ff; }
+.aplicacion4 { background-color: #0166D9ff; }
+
+   .links{
+font-family: 'Segoe UI', sans-serif;
+color:#000128ff;text-decoration: none;
+  font-style: italic;
+}
+
+
+    
+footer{
+      font-family: 'Segoe UI', sans-serif;
+     margin-top: 50px;
+      padding: 0;
+    background-color: #6F8ED1ff;
+      color: #333;
+padding:5px;
+text-align: center;
+    }
+
+
